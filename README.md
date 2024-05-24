@@ -2,7 +2,8 @@
 <div align="center">
   <br />
     
-  
+  ![g-meet1](https://github.com/gautamkumar1/G-Meet/assets/91417015/cf540c04-b923-4ec8-bdb9-4619e8bb2a86)
+
   <br />
 
   <div>
@@ -74,8 +75,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/zoom-clone.git
-cd zoom-clone
+git clone https://github.com/gautamkumar1/G-Meet.git
+cd g-meet
 ```
 
 **Installation**
